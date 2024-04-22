@@ -15,3 +15,8 @@
 - [ ] As a customer, I want to unlock new levels in the loyalty program using points.
 - [ ] As a customer, I want to view the rewards in the loyalty program.
 - [ ] As a customer, I want to view the expiration date for the points and rewards.
+
+## Novelty
+
+- [ ] Collaborative Community Fund: Whenever a customer makes a payment some amount of that payment will be added to the community fund. This fund can be used to help the community in times of need. The customer can also donate to the community fund.
+- [ ] Local Business Mentorship Program: Establish a mentorship program where successful local business owners can offer guidance, support, and advice to aspiring entrepreneurs in the community.
