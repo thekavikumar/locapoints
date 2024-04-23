@@ -47,6 +47,10 @@ export const authOptions: NextAuthOptions = {
       },
     }),
   },
+  pages: {
+    newUser: "/register",
+    error: "/login-error",
+  },
   adapter: DrizzleAdapter(db, createTable) as Adapter,
   providers: [
     GoogleProvider({
